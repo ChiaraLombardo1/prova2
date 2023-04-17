@@ -1,0 +1,382 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items:self-end;
+    padding:20px 900px 0px 20px;
+    font-size:48px;
+    
+    
+    
+}
+.grecia {
+    color: #829881;
+    margin-top: 90px;
+    line-height:0px;
+    font-size: 70pt;
+    text-align:right;
+    margin-right: 40px;
+    
+
+}
+.blue{
+     font-size:80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   word-wrap: break-word;
+   word-wrap:break-word;
+     line-height: 0%;
+   margin: 0px 0px 0px 200px;
+
+}
+.what{
+    font-size:80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   word-wrap: break-word;
+   word-wrap:break-word;
+     line-height: 0%;
+   margin: 0px 0px 0px 200px;
+}
+.do{
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-wrap: break-word;
+    line-height: 0%;
+    margin: 0px 0px 0px 200px;
+
+}
+.you{
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-wrap: break-word;
+    line-height: 0%;
+    margin: 0px 0px 0px 200px;
+}
+.eat{
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-wrap: break-word;
+    margin: 0px 0px 0px 200px;
+    line-height:0%;
+
+}
+body {
+    margin:70px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(27, 34, 125);
+    font-size: 50px;
+    margin-bottom: 600px;
+    
+
+
+}
+.img{
+    border-radius: 70px;
+}
+
+
+
+
+main{
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+   
+}
+header{
+    font-weight:700;
+    padding:1;
+}
+section{
+    background-position: right;
+}
+.perù {
+    color:#BE8173;
+    line-height: 0%;
+    margin-top: 60px;
+    font-size: 70pt;
+    text-align: left;
+    margin-left: 40px;
+
+
+}
+
+
+.olanda{
+    color: #B4AB5E;
+    margin-top: 60px;
+    line-height:0%;
+    font-size: 70pt;
+    text-align:right;
+    margin-right: 40px;
+    
+}
+.hawaii{
+color: #EB8844;
+line-height: 0%;
+margin-top: 60px;
+    font-size: 70pt;
+    text-align: left;
+    margin-left: 40px;
+}
+.usa{
+    color: #837C79;
+    line-height: 0%;
+    margin-top: 60px;
+    line-height:0%;
+    font-size: 70pt;
+    text-align:right;
+    margin-right: 40px;
+    
+
+}
+.india{
+    color: #956E91;
+    line-height: 0%;
+    margin-top: 60px;
+    font-size: 70pt;
+    text-align: left;
+    margin-left: 40px;
+}
+.pgg{
+    
+   padding:20px 60px 20px 60px; 
+   margin: 20px -80px 20px 40px 
+   
+  
+}
+.gg{
+    padding:90px; 
+    margin: 2px;
+    width:fit-content;
+    border-radius: 170px;
+}
+
+.ggg{
+    margin: 40px 40px 30px 30px ;
+    padding-left: 100px;
+    width: 500px;
+    
+
+}
+.container{
+    display:flex;
+    flex-direction:row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #C7D8C6;
+    border-radius: 110px;
+    margin: auto;
+}
+
+.container1{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #F1A08E;
+    border-radius: 110px;
+    margin: auto;
+
+}
+.pp{
+    padding:90px; 
+    width:fit-content;
+    margin: 2px;
+    border-radius: 170px;
+    
+}
+.ppp{
+    padding:20px 0px 20px 0px; 
+    margin: 20px 80px 0px 40px 
+}
+footer {
+    display: flex;
+    flex-direction: row;
+  
+
+}
+footer h1{
+    color:#ded052;
+    line-height: 0%;
+    margin: 300px 10px 100px 0px;
+    font-size: 533pt;
+    text-align:left;
+    font-weight: 900;
+    
+}
+footer h2{
+font-size: 50px;
+margin: 60px 0px 0px 100px;
+
+  
+}
+h3{
+    
+    font-weight: 20;
+    font-size: kk; 
+}
+    
+ 
+.oo{
+    padding:90px; 
+    margin: 2px;
+    width:fit-content;
+    border-radius: 170px;
+}
+.ooo{
+    padding:20px 60px 20px 60px; 
+   margin: 20px -80px 20px 0px 
+
+}
+.container2{
+    display:flex;
+    flex-direction:row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #FDEF6D;
+    border-radius: 110px;
+   margin: 100px;
+}
+.hh{
+    padding:90px; 
+    width:fit-content;
+    margin: 2px;
+    border-radius: 170px;
+
+}
+.hhh{
+    padding:20px 0px 20px 0px; 
+    margin: 20px 80px 0px 40px 
+}
+
+
+.container3{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #FFAF78;
+    border-radius: 110px;
+    margin: 100px;
+}
+.container4{
+    display:flex;
+    flex-direction:row-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #CAC3C1;
+    border-radius: 110px;
+   margin: 100px;
+
+}
+.uu{
+    padding:90px; 
+    margin: 2px;
+    width:fit-content;
+    border-radius: 170px;
+   
+
+
+}
+.uuu{
+    padding:20px 60px 20px 60px; 
+   margin: 20px -80px 20px 40px 
+
+
+}
+.ii{
+    padding:90px; 
+    width:fit-content;
+    margin: 2px;
+    border-radius: 170px;
+
+}
+.container5{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #E2C4DF;
+    border-radius: 110px;
+    margin: 100px;
+    
+
+}
+.iii{
+    padding:20px 0px 20px 0px; 
+    margin: 20px 80px 0px 40px
+
+}
+.goodmorning{
+    font-size: 40px;
+    line-height: 0%;
+    margin:auto;
+
+}
+.buongiorno{
+    font-size: 40px;
+   line-height: 0%;
+   margin:auto;
+
+}
+.gutenmorgen{
+    font-size: 40px;
+    line-height: 0%;
+    margin:auto;
+}
+.bomdia{
+    font-size: 40px;
+   line-height: 0%;
+   margin:auto;
+}
+.bonjour{
+    font-size: 40px;
+   line-height: 0%;
+   margin:auto;
+}
+.buenosdias{
+    font-size: 40px;
+   line-height: 0%;
+   margin:auto;
+}
+.你好{
+    font-size: 40px;
+    line-height: 0%;
+    margin:auto;
+}
+.Здравствуйте{
+    font-size: 40px;
+   line-height: 0%;
+   margin:auto;
+}
+
+/* For mobile phones: */
+[class*="container"] {
+  width: 100%;
+  margin: 20px -80px 20px 40px 
+}
+[class*="container1"] {
+    width: 100%;
+    margin: 20px -80px 20px 40px 
+  }
+  [class*="container2"] {
+    width: 100%;
+    margin: 20px -80px 20px 40px 
+  }
+  [class*="container3"] {
+    width: 100%;
+    margin: 20px -80px 20px 40px 
+  }
+  [class*="container4"] {
+    width: 100%;
+    margin: 20px -80px 20px 40px 
+  }
+  [class*="container5"] {
+    width: 100%;
+    margin: 20px -80px 20px 40px 
+  }
+
+[class*="container10"] {
+  width: 100%;
+  margin: 20px -80px 20px 40px 
+}
+  
